@@ -2,9 +2,9 @@
 <h3 align="center">I'm a passionate developer exploring MERN Stack Development and Web3</h3>
 <img align="center" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashankreddym18&label=Profile%20views&color=0e75b6&style=flat" alt="shashankreddym18" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankreddym18&label=Profile%20views&color=0e75b6&style=flat" alt="shashankreddym18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankreddym18" alt="shashankreddym18" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankreddym18" alt="shashankreddym18" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
